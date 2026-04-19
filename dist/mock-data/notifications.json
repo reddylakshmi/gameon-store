@@ -1,0 +1,14 @@
+[
+  {
+    "id": "notif-low-stock-ps5",
+    "title": "Low Stock Alert",
+    "body": "PlayStation 5 Slim Console is down to 2 units at the front counter.",
+    "tag": "low-stock"
+  },
+  {
+    "id": "notif-preorder-arrival",
+    "title": "Pre-order Arrival",
+    "body": "A reserved copy of Metroid Prime 4 has arrived for pickup.",
+    "tag": "preorder-arrival"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "pairedPrinters": [
+    {
+      "id": "printer-01",
+      "name": "Star Micronics TSP143"
+    }
+  ],
+  "pairedScanners": [
+    {
+      "id": "scanner-01",
+      "name": "Zebra DS2208"
+    }
+  ]
+}

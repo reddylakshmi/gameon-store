@@ -1,0 +1,22 @@
+[
+  {
+    "id": "credit",
+    "label": "Credit Card",
+    "hint": "Visa, Mastercard, Amex"
+  },
+  {
+    "id": "debit",
+    "label": "Debit Card",
+    "hint": "PIN-less terminal entry"
+  },
+  {
+    "id": "paypal",
+    "label": "PayPal",
+    "hint": "Customer PayPal login"
+  },
+  {
+    "id": "afterpay",
+    "label": "Afterpay",
+    "hint": "Split-pay approval flow"
+  }
+]

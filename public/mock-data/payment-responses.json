@@ -1,0 +1,66 @@
+{
+  "reader": {
+    "credit": {
+      "success": {
+        "status": "approved",
+        "message": "Card reader approved the transaction.",
+        "last4": "4242",
+        "brand": "Visa",
+        "entryMethod": "Tap",
+        "authCode": "A1842Z",
+        "cardholderName": "Taylor Reed",
+        "token": "tok_credit_4242"
+      },
+      "error": {
+        "status": "error",
+        "message": "Reader timeout. Enter card details manually and retry the payment."
+      }
+    },
+    "debit": {
+      "success": {
+        "status": "approved",
+        "message": "Debit card read and authenticated successfully.",
+        "last4": "1188",
+        "brand": "Mastercard Debit",
+        "entryMethod": "Insert",
+        "authCode": "D5521P",
+        "cardholderName": "Jordan Hayes",
+        "token": "tok_debit_1188"
+      },
+      "error": {
+        "status": "error",
+        "message": "Reader could not capture the debit card. Manual entry is required."
+      }
+    }
+  },
+  "checkout": {
+    "credit": {
+      "success": {
+        "status": "approved",
+        "message": "Credit payment approved.",
+        "orderId": "ORDER-CREDIT-1001"
+      }
+    },
+    "debit": {
+      "success": {
+        "status": "approved",
+        "message": "Debit payment approved.",
+        "orderId": "ORDER-DEBIT-1002"
+      }
+    },
+    "paypal": {
+      "success": {
+        "status": "approved",
+        "message": "PayPal authorization approved.",
+        "orderId": "ORDER-PAYPAL-1003"
+      }
+    },
+    "afterpay": {
+      "success": {
+        "status": "approved",
+        "message": "Afterpay installment plan approved.",
+        "orderId": "ORDER-AFTERPAY-1004"
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 101,
+    "name": "PlayStation 5 Slim Console",
+    "price": 499.99,
+    "platform": "PlayStation 5",
+    "stockCount": 9,
+    "category": "Console"
+  },
+  {
+    "id": 102,
+    "name": "Xbox Series X Console",
+    "price": 499.99,
+    "platform": "Xbox Series X|S",
+    "stockCount": 7,
+    "category": "Console"
+  },
+  {
+    "id": 103,
+    "name": "Nintendo Switch OLED",
+    "price": 349.99,
+    "platform": "Nintendo Switch",
+    "stockCount": 12,
+    "category": "Console"
+  },
+  {
+    "id": 104,
+    "name": "Steam Deck OLED 512GB",
+    "price": 549.99,
+    "platform": "PC",
+    "stockCount": 5,
+    "category": "Console"
+  },
+  {
+    "id": 201,
+    "name": "Marvel's Spider-Man 2",
+    "price": 69.99,
+    "platform": "PlayStation 5",
+    "stockCount": 16,
+    "category": "Game"
+  },
+  {
+    "id": 202,
+    "name": "Halo Infinite",
+    "price": 39.99,
+    "platform": "Xbox Series X|S",
+    "stockCount": 13,
+    "category": "Game"
+  },
+  {
+    "id": 203,
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "price": 69.99,
+    "platform": "Nintendo Switch",
+    "stockCount": 11,
+    "category": "Game"
+  },
+  {
+    "id": 204,
+    "name": "Elden Ring",
+    "price": 59.99,
+    "platform": "PlayStation 5",
+    "stockCount": 14,
+    "category": "Game"
+  },
+  {
+    "id": 205,
+    "name": "Forza Motorsport",
+    "price": 59.99,
+    "platform": "Xbox Series X|S",
+    "stockCount": 8,
+    "category": "Game"
+  },
+  {
+    "id": 301,
+    "name": "DualSense Wireless Controller",
+    "price": 74.99,
+    "platform": "PlayStation 5",
+    "stockCount": 20,
+    "category": "Accessory"
+  },
+  {
+    "id": 302,
+    "name": "Xbox Wireless Controller",
+    "price": 64.99,
+    "platform": "Xbox Series X|S",
+    "stockCount": 18,
+    "category": "Accessory"
+  },
+  {
+    "id": 303,
+    "name": "Nintendo Switch Pro Controller",
+    "price": 69.99,
+    "platform": "Nintendo Switch",
+    "stockCount": 10,
+    "category": "Accessory"
+  },
+  {
+    "id": 304,
+    "name": "Gaming Headset Pro X",
+    "price": 89.99,
+    "platform": "Multi-Platform",
+    "stockCount": 15,
+    "category": "Accessory"
+  }
+]

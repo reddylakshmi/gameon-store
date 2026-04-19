@@ -1,0 +1,49 @@
+[
+  {
+    "id": "cust-1001",
+    "name": "Arjun Reddy",
+    "email": "alex.mercer@example.com",
+    "phone": "3125550101",
+    "pointsBalance": 8200,
+    "nextRewardPoints": 10000,
+    "tradeInCredit": 42.5,
+    "coupons": [
+      {
+        "code": "SAVE10",
+        "label": "$10 Off $75",
+        "discountAmount": 10
+      },
+      {
+        "code": "USED5",
+        "label": "$5 Used Game Boost",
+        "discountAmount": 5
+      }
+    ]
+  },
+  {
+    "id": "cust-1002",
+    "name": "Taylor Reed",
+    "email": "taylor.reed@example.com",
+    "phone": "7735550133",
+    "pointsBalance": 14650,
+    "nextRewardPoints": 20000,
+    "tradeInCredit": 18,
+    "coupons": [
+      {
+        "code": "PRO15",
+        "label": "$15 Pro Member Reward",
+        "discountAmount": 15
+      }
+    ]
+  },
+  {
+    "id": "cust-1003",
+    "name": "Jordan Hayes",
+    "email": "jordan.hayes@example.com",
+    "phone": "7085550198",
+    "pointsBalance": 4200,
+    "nextRewardPoints": 5000,
+    "tradeInCredit": 9.75,
+    "coupons": []
+  }
+]

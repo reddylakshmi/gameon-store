@@ -1,0 +1,53 @@
+[
+  {
+    "id": "ORD-9001",
+    "customerId": "cust-1001",
+    "orderDate": "2026-04-03T15:22:00.000Z",
+    "total": 129.97,
+    "pointsEarned": 1299,
+    "items": [
+      {
+        "id": 203,
+        "name": "The Legend of Zelda: Tears of the Kingdom",
+        "price": 69.99,
+        "quantity": 1
+      },
+      {
+        "id": 303,
+        "name": "Nintendo Switch Pro Controller",
+        "price": 59.98,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": "ORD-9002",
+    "customerId": "cust-1001",
+    "orderDate": "2026-02-14T18:10:00.000Z",
+    "total": 89.99,
+    "pointsEarned": 899,
+    "items": [
+      {
+        "id": 304,
+        "name": "Gaming Headset Pro X",
+        "price": 89.99,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": "ORD-9010",
+    "customerId": "cust-1002",
+    "orderDate": "2026-04-09T11:42:00.000Z",
+    "total": 74.99,
+    "pointsEarned": 749,
+    "items": [
+      {
+        "id": 301,
+        "name": "DualSense Wireless Controller",
+        "price": 74.99,
+        "quantity": 1
+      }
+    ]
+  }
+]

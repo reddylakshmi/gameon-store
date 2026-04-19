@@ -1,0 +1,9 @@
+[
+  {
+    "id": "reward-10",
+    "title": "GameOn Reward Voucher",
+    "description": "Apply a $10 value to the current sale or redeem using loyalty points.",
+    "cashCost": 10,
+    "pointsCost": 10000
+  }
+]
