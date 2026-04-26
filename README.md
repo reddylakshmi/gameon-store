@@ -1,4 +1,4 @@
-# gameon-store (gamestop-store POS)
+# gameon-store
 
 Production-ready React Point of Sale system for a retail game store, built with Vite, React, Tailwind CSS, and `vite-plugin-pwa`.
 
